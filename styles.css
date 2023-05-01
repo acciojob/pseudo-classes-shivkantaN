@@ -1,5 +1,8 @@
 /*  your css code here. If applicable */
 /*  your css code here. If applicable */
+.d{
+	color: red;
+}
    p:last-child { 
         color:red;  
       }  
